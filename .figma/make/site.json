@@ -1,0 +1,10 @@
+{
+  "description": "Experience competitive Japanese riichi Mahjong with AI opponents, real-time gameplay, detailed match analysis, and personalized training in a premium mobile app.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
